@@ -17,6 +17,13 @@ site:
           draft: true
           content:
             directory: ./home/landing-page
+        - type: space
+          key: space-1
+          title: Landing Page
+          path: landing-page-1
+          draft: true
+          content:
+            directory: ./home/landing-page-1
     - type: section
       key: section-2
       title: Documentation
