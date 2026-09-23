@@ -1,12 +1,12 @@
 ---
 icon: house
-cover: https://www.avg.com/en/signal/what-is-a-honeypot
+cover: .gitbook/assets/avg-honeypot-01.webp
 coverY: 0
 layout:
   width: wide
   cover:
     visible: true
-    size: full
+    size: hero
     mask: none
   title:
     visible: true
