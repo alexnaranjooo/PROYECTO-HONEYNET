@@ -1,5 +1,4 @@
 ---
-icon: house
 cover: .gitbook/assets/avg-honeypot-01.webp
 coverY: 0
 layout:
@@ -28,8 +27,13 @@ layout:
     visible: false
 ---
 
-# Proyecto HoneyNet
+# 🐝 HoneyNet — Panel de Apuntes y Notas
 
-&#x20;
+> Estado actual del proyecto: En desarrollo activo&#x20;
+>
+> Fase: Investigación y estructuración técnica inicial
 
-<figure><img src=".gitbook/assets/Bug-2--Streamline-Brooklyn.png" alt=""><figcaption></figcaption></figure>
+
+
+
+

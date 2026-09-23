@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Proyecto HoneyNet](README.md)
+* [🐝 HoneyNet — Panel de Apuntes y Notas](README.md)
