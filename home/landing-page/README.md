@@ -1,5 +1,5 @@
 ---
-description: Hecho por Álex Naranjo Blázquez
+description: Hecho por Álex Naranjo Blázquez y David Álvarez Fernández
 cover: .gitbook/assets/avg-honeypot-01.webp
 coverY: 0
 layout:
