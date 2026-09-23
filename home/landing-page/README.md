@@ -1,7 +1,12 @@
 ---
 icon: house
+coverY: 0
 layout:
   width: wide
+  cover:
+    visible: true
+    size: full
+    mask: none
   title:
     visible: true
   description:
@@ -22,7 +27,7 @@ layout:
     visible: false
 ---
 
-# Developer Platform
+# Proyecto HoneyNet
 
 &#x20;
 
