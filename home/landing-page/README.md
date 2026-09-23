@@ -1,5 +1,6 @@
 ---
 icon: house
+cover: https://www.avg.com/en/signal/what-is-a-honeypot
 coverY: 0
 layout:
   width: wide
