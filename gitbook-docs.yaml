@@ -18,6 +18,7 @@ site:
           draft: true
           content:
             directory: ./home/landing-page
+            language: es
     - type: section
       key: section-2
       title: Documentation
@@ -44,16 +45,3 @@ site:
           default: true
           content:
             directory: ./api-reference
-    - type: section
-      key: section-5
-      title: Help Center
-      path: help-center
-      icon: life-ring
-      children:
-        - type: space
-          key: space-5
-          title: Help Center
-          path: help-center
-          default: true
-          content:
-            directory: ./help-center
