@@ -4,8 +4,8 @@
 
 ## Getting Started
 
-* [Getting started](getting-started/getting-started.md)
 * [Ideas Principales](getting-started/ideas-principales.md)
+* [Defensa del equipo](getting-started/defensa-del-equipo.md)
 * [Your first project](getting-started/your-first-project.md)
 
 ## Core concepts
